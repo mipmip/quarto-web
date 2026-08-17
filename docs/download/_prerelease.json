@@ -1,70 +1,88 @@
 {
-  "version": "1.3.101",
-  "name": "v1.3.101",
-  "created": "2023-01-12T20:18:01Z",
-  "updated": "2023-01-12T20:30:03Z",
-  "published": "2023-01-12T20:29:14Z",
+  "version": "1.11.1",
+  "name": "v1.11.1",
+  "created": "2026-07-28T12:30:50Z",
+  "updated": "2026-07-28T12:38:14Z",
+  "published": "2026-07-28T12:37:54Z",
   "assets": [
     {
       "name": "changelog.md",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.101/changelog.md",
-      "checksum": "021d8d9a51758d67b78eaae1919abfc08651fb4d5c98c2d42ba21c8d86715962",
-      "size": 7645
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/changelog.md",
+      "checksum": "26f8fedba703ede1dfd4bbf3eac717b98b66de57b5c0febb0d18ec9ed3bcba2d",
+      "size": 384
     },
     {
-      "name": "quarto-1.3.101-checksums.txt",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.101/quarto-1.3.101-checksums.txt",
-      "checksum": "440ee84a5619ab746d37873b747873cb0d733645b77791b15cc2116de38f1445",
-      "size": 754
+      "name": "quarto-1.11.1-checksums.txt",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-checksums.txt",
+      "checksum": "345c35f3864b904450e2a8c97cc56f2893d24d607bd3968d80f8f97fbc41f8b5",
+      "size": 1031
     },
     {
-      "name": "quarto-1.3.101-linux-amd64.deb",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.101/quarto-1.3.101-linux-amd64.deb",
-      "checksum": "d1e6d4e0e7565304ec29c7f392f50fd89978c4b4b3b64209b1a6165e6ba2ef99",
-      "size": 79606384
+      "name": "quarto-1.11.1-linux-aarch64.rpm",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-aarch64.rpm",
+      "checksum": "333e089f66be8d858a9c532b9e0fdd040cf2a0955c10598119edf203a41056d2",
+      "size": 155511463
     },
     {
-      "name": "quarto-1.3.101-linux-amd64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.101/quarto-1.3.101-linux-amd64.tar.gz",
-      "checksum": "fc223366a8eb580cd0d0c2691a1379e3fe9324ed9f9879055b16529b811c9a26",
-      "size": 80497205
+      "name": "quarto-1.11.1-linux-amd64.deb",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-amd64.deb",
+      "checksum": "bcedc7acc73880e1e976413906aed88b4d71f09e858682219e2331f77ad75f2d",
+      "size": 149779782
     },
     {
-      "name": "quarto-1.3.101-linux-rhel7-amd64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.101/quarto-1.3.101-linux-rhel7-amd64.tar.gz",
-      "checksum": "149f167ec049eb77c40a1d1cfae7b1b9a41226d89ce5a7da880e8c85e0d1966b",
-      "size": 78638977
+      "name": "quarto-1.11.1-linux-amd64.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-amd64.tar.gz",
+      "checksum": "83251de1640bd7ee87e4df9bdd83bd46d116ce93783c19bbef6f64f1c913a1fe",
+      "size": 147006626
     },
     {
-      "name": "quarto-1.3.101-macos.pkg",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.101/quarto-1.3.101-macos.pkg",
-      "checksum": "d750cffb907e4329be58d43fb99990c8258ecfd95aef791236e1055864b98c79",
-      "size": 110658420
+      "name": "quarto-1.11.1-linux-arm64.deb",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-arm64.deb",
+      "checksum": "3cba425d77957b11a98448f72efb2be4071623fc5e8a70ed625cf7e85d679638",
+      "size": 150178834
     },
     {
-      "name": "quarto-1.3.101-macos.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.101/quarto-1.3.101-macos.tar.gz",
-      "checksum": "ccd85e4c857d5d1058b9687cfd3ba04b7f776341514175372e6220c635392314",
-      "size": 110563258
+      "name": "quarto-1.11.1-linux-arm64.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-arm64.tar.gz",
+      "checksum": "19b81b88b16afb9fa196c182013bd1ea6d1fc9c99b5668c29a06de2d5861c743",
+      "size": 145968714
     },
     {
-      "name": "quarto-1.3.101-win.msi",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.101/quarto-1.3.101-win.msi",
-      "checksum": "86ec43a8d8e2aec54104d9d18e3431f152636f91a38fe6906b7a0ccfa66aca34",
-      "size": 79372288
+      "name": "quarto-1.11.1-linux-x86_64.rpm",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-x86_64.rpm",
+      "checksum": "d1e2ef3674973974988d233884c5774c33de258932dd271356caaddbcd9f2d2d",
+      "size": 156276990
     },
     {
-      "name": "quarto-1.3.101-win.zip",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.101/quarto-1.3.101-win.zip",
-      "checksum": "0eeaba2d618951772110efabb915bff5fa16ce9067b95810f75e8898b9a010ac",
-      "size": 79221736
+      "name": "quarto-1.11.1-macos.pkg",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-macos.pkg",
+      "checksum": "bfb847db9463f58ed5b8319c34d2d113c1ae3afd64df782cdb5e101bb87f0676",
+      "size": 247695513
     },
     {
-      "name": "quarto-1.3.101.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.101/quarto-1.3.101.tar.gz",
-      "checksum": "f75338c75cd22a4c47c44d5482b86669e4ebb0c7342111d4fedc6e039e1c151c",
-      "size": 41333397
+      "name": "quarto-1.11.1-macos.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-macos.tar.gz",
+      "checksum": "39af2c40644fc8d4c70f747ee80838423cbac0addfdccfe3a3e580f6b51d8451",
+      "size": 247501208
+    },
+    {
+      "name": "quarto-1.11.1-win.msi",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-win.msi",
+      "checksum": "509fdbe9b2025f2499aeb631d50816ff62367713d4c94ec71ae588809a7b9afc",
+      "size": 148033536
+    },
+    {
+      "name": "quarto-1.11.1-win.zip",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-win.zip",
+      "checksum": "8a2955a172fcc9fa7eb464d8184ac1c919d249ff163caec07ee546fe6331a3cb",
+      "size": 148260318
+    },
+    {
+      "name": "quarto-1.11.1.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1.tar.gz",
+      "checksum": "7d4b2cc92db002169e1ac2bd4a5a4fe8f27d4d3be5a27d71443247d27827ee31",
+      "size": 113385592
     }
   ],
-  "description": "## Jupyter Notebooks\n\n- Add support for embedding cell outputs in quarto documents using `{{< embed >}}`. You can address cells by Id, Tag, or label, such as `{{< embed mynotebook.ipynb#fig-output >}}` which would embed the output of a cell with the label `fig-output`). You can also provide a list of ids like `{{< embed mynotebook.ipynb#fig-output,tbl-out >}}`.\n- Only attempt to postprocess `text/plain` output if it's nonempty ([#3896](https://github.com/quarto-dev/quarto-cli/issues/3896)).\n\n## Code Annotation\n\n- Add support for annotation of code cells (executable or non-executable). You can read more about code annotation at [https://www.quarto.org/docs/prerelease/1.3.html](https://www.quarto.org/docs/prerelease/1.3.html).\n\n## HTML Format\n\n- Improved handling of margin references that appear within a callout. ([#3003](https://github.com/quarto-dev/quarto-cli/issues/3003))\n- Add support for customizing the baseline widths of grid columns using yaml or scss. For more information, see [https://www.quarto.org/docs/prerelease/1.3.html](https://www.quarto.org/docs/prerelease/1.3.html).\n- Fix wrapping of long `code` entries inside table cells ([#3221](https://github.com/quarto-dev/quarto-cli/issues/3221))\n- Fix author display to use the `url` for an author even when there is no affiliation.\n- Add support for linking to other formats, when more than one format is produced. Alternate formats will appear with the TOC. Control using `format-links`.\n- Add support for linking to source notebooks that provide embedded content. Control using `notebook-links`\n- Improve callout wrapping behavior for long strings with no word breaks.\n- Add overflow to tables generated from SQL code cells ([#3497](https://github.com/quarto-dev/quarto-cli/issues/3497)).\n\n## Article Layout\n\n- Improve positioning of margin content defined within tabsets. (#3280)\n\n## Revealjs Format\n\n- reduce font size of `df-print: paged` tables ([#3380](https://github.com/quarto-dev/quarto-cli/issues/3380))\n\n## Dates\n\n- Properly fall back to language only locale when a supported language-region locale isn't available. (#3059)\n\n## PDF Format\n\n- Fix wrong page number in the TOC for appendices ([#3164](https://github.com/quarto-dev/quarto-cli/issues/3164)) (Thank you, @iusgit!)\n- Add support for automatically converting SVG images to PDF ([#2575](https://github.com/quarto-dev/quarto-cli/issues/2575))\n- Previously, if the `pdf-engine` was set to `latexmk`, we would bypass many features of Quarto and use Pandoc to produce the PDF output. Starting in in Quarto 1.3, all Quarto features will be enabled for the `latexmk` engine and `latexmk` will be used to run the PDF generation loop.\n- Fix author processing in default PDFs for complex author names (#3483)\n- Remove excessive vertical space between theorem type blocks ([#3776](https://github.com/quarto-dev/quarto-cli/issues/3776)).\n\n## Beamer Format\n\n- Document `theme` format metadata option ([#3377](https://github.com/quarto-dev/quarto-cli/issues/3377))\n\n## Mermaid diagrams\n\n- Upgrade to mermaid 9.2.2\n- Add support for theming mermaid diagrams in Javascript formats ([#2165](https://github.com/quarto-dev/quarto-cli/issues/2165)). See the [prerelease documentation notes](https://quarto.org/docs/prerelease/1.3.html) for details.\n- Allow `%%| label` mermaid cell option that control the `id` of the resulting SVG, to facilitate CSS overrides.\n- Use `htmlLabels: false` in mermaid flowcharts.\n- Remove support for tooltips, which appear to not be working in mermaid 9.2.2.\n- Add support for `fig-align` in mermaid diagrams in HTML format ([#3294](https://github.com/quarto-dev/quarto-cli/issues/3294))\n\n## Dates\n\n- Properly fall back to language only locale when a supported language-region locale isn't available. ([#3059](https://github.com/quarto-dev/quarto-cli/issues/3059))\n\n## About Pages\n\n- Add support for `image-alt` which provides alternate text for the about page image. ([#3010](https://github.com/quarto-dev/quarto-cli/issues/3010))\n\n## Article Layout\n\n- Improve the performance of extremely large documents with margin elements by improving the efficiency of positioning the elements.\n\n## Listings\n\n- Listings now support `template-params`, which will be passed to custom EJS templates in a variable called `templateParams` when a listing is rendered.\n- Custom listing objects now resolve `path: ` fields into the metadata that would be generated by standard listings, giving custom listing access to computed metadata like `reading-time`, etc.\n- Improve support for `date-modified` in listings\n- Improve support for `yml` based listings by supporting usage of title and description from `yml`.\n- Allow listings in project to point directly to non-input files (such as `yml` files) to use for contents.\n- Allow `sort: false` to disable any sorting, allowing items to appear in their original / natural order. (#3296)\n\n## Websites\n\n- Fix issue assigning specific sidebar to a specific page using `sidebar:` (#3389)\n- Change behavior of `publish gh-pages` to always render into a clean directory.\n  Previous behavior was to add to existing contents of `gh-pages` branch. ([#3199](https://github.com/quarto-dev/quarto-cli/discussions/3199), @ijlyttle)\n\n## Books\n\n- Remove chapter number of HTML head title when `number-sections` is `false` (#3304).\n\n## Preview\n\n- Correct redirect for VS Code Server (#3352) (Thank you, @benz0li!)\n\n## LUA\n\n- `quarto.version()` now returns `Version` object that simplifies comparison (thank you @tarleb)\n\n## HTML Output\n\n- HTML output will not decorate links within source code (for example, from `code-link: true`) with external icons. (#3755)\n\n## Miscellaneous\n\n- Work around pandoc strict checking of `number-offset` type. ([#3126](https://github.com/quarto-dev/quarto-cli/issues/3126))\n- Warn instead of crash on bad URI ([#3220](https://github.com/quarto-dev/quarto-cli/issues/3220))\n- ensure `video` shortcode works with `embed-resources` and `self-contained` ([#3310](https://github.com/quarto-dev/quarto-cli/issues/3310))\n- Add optional `rel` attribute to navigation links ([#3212](https://github.com/quarto-dev/quarto-cli/issues/3212))\n- Use the right port when CRI is initialized multiple times ([#3066](https://github.com/quarto-dev/quarto-cli/issues/3066))\n- Allow custom themes for giscus ([#3105](https://github.com/quarto-dev/quarto-cli/issues/3105))\n- Add new `kbd` shortcode, to describe keyboard keys ([#3384](https://github.com/quarto-dev/quarto-cli/issues/3384)). See the [pre-release documentation](https://quarto.org/docs/prerelease/1.3.html) for details.\n- Replace default style for date picker component in OJS ([#2863](https://github.com/quarto-dev/quarto-cli/issues/2863)).\n- `quarto check` now supports `quarto check versions` for checking binary dependency versions in the case of custom binaries ([#3602](https://github.com/quarto-dev/quarto-cli/issues/3602)).\n- the API for shortcode handlers in lua now accepts a fourth parameter `raw_args` which hold the unparsed arguments in a table ([#3833](https://github.com/quarto-dev/quarto-cli/issues/3833)).\n- remove scaffolding div from conditional content in final output ([#3847](https://github.com/quarto-dev/quarto-cli/issues/3847)).\n- ensure proof titles are appended to paragraph nodes ([#3772](https://github.com/quarto-dev/quarto-cli/issues/3772)).\n\n## Pandoc filter changes\n\n- Quarto 1.3 introduces the notion of Custom AST nodes to Pandoc filters. If you use Lua filters for processing callouts, tabsets, or conditional blocks, consult the [pre-release documentation](https://quarto.org/docs/prerelease/1.3.html) for how to change your filters to support the new syntax.\n"
+  "description": "All changes included in 1.11:\n\n## Engines\n\n### `knitr`\n\n- ([#14735](https://github.com/quarto-dev/quarto-cli/issues/14735)): Fix `cache-globals` rejecting arrays and booleans, so it now accepts the same forms as `cache-vars` and as knitr itself. Previously only a single string validated, which rejected both `cache-globals: [var_1, var_2]` and the documented `cache-globals: false`.\n"
 }
